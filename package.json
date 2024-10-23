@@ -1,0 +1,16 @@
+{
+  "name": "video-downloader",
+  "version": "1.0.0",
+  "description": "A universal video downloader app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
